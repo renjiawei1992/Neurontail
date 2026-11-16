@@ -1,0 +1,3908 @@
+{
+  "task": "mcqa",
+  "model": "qwen25_7b",
+  "accuracy": 0.2633333333333333,
+  "n": 300,
+  "rows": [
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Accordion/Right_hand-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 0,
+      "correct": true,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Accordion/Right_hand-2",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 0,
+      "correct": true,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/All_About_Converting_From_Several_Video_Formats_To_DVD-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 1,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/All_About_Converting_From_Several_Video_Formats_To_DVD-2",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 1,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/American_Revolution/The_Battles_of_Trenton_and_Princeton-2",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 2,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/American_Revolution/The_Declaration_of_Independence-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 3,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/American_Revolution/The_Declaration_of_Independence-2",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 2,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/American_Revolution/Ticonderoga_and_Bunker_Hill-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 0,
+      "correct": true,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/American_Revolution/Ticonderoga_and_Bunker_Hill-2",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 2,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Ancient_China/Government-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 3,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Animal_Behavior/Army_Ants_-_Social_Hierarchy,_Life_Cycles,_and_Migration-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 1,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Animal_Behavior/Army_Ants_-_Social_Hierarchy,_Life_Cycles,_and_Migration-2",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 2,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Animal_Behavior/Biological_Rhythms-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 2,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Animal_Behavior/Population_Genetics-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 3,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Animal_Behavior/Population_Genetics-2",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 1,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Applied_Ecology/Nature_Tourism-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 2,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Applied_Ecology/New_Societies_and_Cultures-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 1,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Basic_Physics_of_Digital_Radiography/The_Basics-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 2,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Basic_Physics_of_Digital_Radiography/The_Basics-2",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 0,
+      "correct": true,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Basic_Physics_of_Digital_Radiography/The_Computer-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 2,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Basic_Physics_of_Digital_Radiography/The_Computer-2",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 0,
+      "correct": true,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Blended_Learning_in_K-12/Blended_Learning_in_Grades_9-12-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 1,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Blended_Learning_in_K-12/Blended_Learning_in_Grades_9-12-2",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 1,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Blended_Learning_in_K-12/Synchronous_and_asynchronous_communication_methods-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 1,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Blended_Learning_in_K-12/Synchronous_and_asynchronous_communication_methods-2",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 2,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Castles_of_England/The_Development_of_the_Castle-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 3,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Castles_of_England/The_Development_of_the_Castle-2",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 2,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Castles_of_England/Tudor_Castles-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 1,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Castles_of_England/Tudor_Castles-2",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 1,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Coaching_Youth_Middle_Distance_Runners/Introduction-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 3,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Coaching_Youth_Middle_Distance_Runners/Introduction-2",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 1,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Coaching_Youth_Middle_Distance_Runners/Nutrition-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 2,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Coaching_Youth_Middle_Distance_Runners/Nutrition-2",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 1,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Coaching_Youth_Middle_Distance_Runners/Training-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 0,
+      "correct": true,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Coaching_Youth_Middle_Distance_Runners/Training-2",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 2,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Cognitive_Psychology_and_Cognitive_Neuroscience/Behavioural_and_Neuroscience_Methods-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 2,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Cognitive_Psychology_and_Cognitive_Neuroscience/Behavioural_and_Neuroscience_Methods-2",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 1,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Cognitive_Psychology_and_Cognitive_Neuroscience/Evolutionary_Perspective_on_Social_Cognitions-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 1,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Cognitive_Psychology_and_Cognitive_Neuroscience/Evolutionary_Perspective_on_Social_Cognitions-2",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 0,
+      "correct": true,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Cognitive_Psychology_and_Cognitive_Neuroscience/Knowledge_Representation_and_Hemispheric_Specialisation-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 3,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Cognitive_Psychology_and_Cognitive_Neuroscience/Knowledge_Representation_and_Hemispheric_Specialisation-2",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 2,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Cognitive_Psychology_and_Cognitive_Neuroscience/Problem_Solving_from_an_Evolutionary_Perspective-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 3,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Cognitive_Psychology_and_Cognitive_Neuroscience/Problem_Solving_from_an_Evolutionary_Perspective-2",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 1,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Communication_Theory/Nonverbal_Communication-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 3,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Communication_Theory/Nonverbal_Communication-2",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 2,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Communication_Theory/Orality_and_Literacy-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 2,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Communication_Theory/Orality_and_Literacy-2",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 0,
+      "correct": true,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Communication_Theory/Uses_and_Gratifications-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 2,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Communication_Theory/Uses_and_Gratifications-2",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 1,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Costume_History/Gothic-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 0,
+      "correct": true,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Costume_History/Gothic-2",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 2,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Environmental_theory_and_collection_of_ideas/Environmentalism_and_survival-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 2,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Environmental_theory_and_collection_of_ideas/Environmentalism_and_survival-2",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 1,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/European_History/Absolutism_in_Europe-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 3,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/European_History/Absolutism_in_Europe-2",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 0,
+      "correct": true,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/European_History/Challenges_to_Spiritual_Authority-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 1,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/European_History/Revolution_in_France-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 3,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/European_History/Revolution_in_France-2",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 2,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/European_History/World_War_I-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 2,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/European_History/World_War_I-2",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 3,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Exercise_as_it_relates_to_Disease/Can_Exercise_Really_Help_Multiple_Sclerosis%3F-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 0,
+      "correct": true,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Exercise_as_it_relates_to_Disease/Physical_activity_effect_on_mental_health_in_people_with_chronic_lower_back_pain-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 0,
+      "correct": true,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Fencing-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 3,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/First_Aid/Poisoning-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 3,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/First_Aid/Primary_Assessment_%26_Basic_Life_Support-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 0,
+      "correct": true,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/First_Aid/Primary_Assessment_%26_Basic_Life_Support-2",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 0,
+      "correct": true,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/French_Revolution/Effects-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 1,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/French_Revolution/Effects-2",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 1,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Fundamentals_of_Transportation/Introduction-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 2,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Fundamentals_of_Transportation/Introduction-2",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 2,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Fundamentals_of_Transportation/Traffic_Flow-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 3,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Fundamentals_of_Transportation/Traffic_Flow-2",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 3,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/General_Biology/Genetics/DNA,_The_Genetic_Material-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 3,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/General_Biology/Genetics/Mutation-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 0,
+      "correct": true,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/General_Biology/Genetics/Mutation-2",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 0,
+      "correct": true,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Goats/Introduction-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 2,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Golf-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 1,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Golf-2",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 1,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/High_School_Biology/Nature_of_Science-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 0,
+      "correct": true,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/High_School_Biology/Nature_of_Science-2",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 0,
+      "correct": true,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/High_School_Earth_Science/Storms-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 2,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/High_School_Earth_Science/Storms-2",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 3,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/High_School_Earth_Science/Telescopes-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 3,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/High_School_Earth_Science/Telescopes-2",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 1,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/History_of_Islam/Early_Islam-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 0,
+      "correct": true,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/History_of_Rail_Transport/Early_Rail_Transportation-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 0,
+      "correct": true,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/History_of_Rail_Transport/Early_Rail_Transportation-2",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 3,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/History_of_Technology/Cultural_Determinism-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 1,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/History_of_Technology/Technological_Determinism-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 0,
+      "correct": true,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/How_to_Play_Violin/Bowing-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 0,
+      "correct": true,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/How_to_Play_Violin/Bowing-2",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 2,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Introduction_to_Paleoanthropology/Bones-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 0,
+      "correct": true,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Introduction_to_Paleoanthropology/Bones-2",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 2,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Introduction_to_Paleoanthropology/Genetics/Introduction-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 3,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Introduction_to_Paleoanthropology/Genetics/Introduction-2",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 2,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Introduction_to_Paleoanthropology/Oldowan-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 2,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Introduction_to_Paleoanthropology/Oldowan-2",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 0,
+      "correct": true,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Introduction_to_Sociology/Culture-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 3,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Introduction_to_Sociology/Race_and_Ethnicity-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 1,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Introduction_to_Sociology/Race_and_Ethnicity-2",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 1,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Introduction_to_Sociology/Socialization-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 1,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Introduction_to_Sociology/Socialization-2",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 1,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Introduction_to_Sociology/Society-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 1,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Introduction_to_Sociology/Society-2",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 3,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Introductory_Tourism-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 2,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Introductory_Tourism-2",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 1,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Learning_Theories/Organizational_Learning:_Influencing_Factors-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 0,
+      "correct": true,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Learning_Theories/Organizational_Learning:_Influencing_Factors-2",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 2,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Learning_Theories/Post-Modern_Theories-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 3,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Learning_Theories/Post-Modern_Theories-2",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 1,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Lucid_Dreaming/Induction_Techniques-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 0,
+      "correct": true,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Lucid_Dreaming/Induction_Techniques-2",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 3,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Lucid_Dreaming/Introduction-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 3,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Lucid_Dreaming/Introduction-2",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 1,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Managing_Groups_and_Teams/How_Do_You_Build_High-performing_Virtual_Teams%3F-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 0,
+      "correct": true,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Managing_Groups_and_Teams/How_Do_You_Build_High-performing_Virtual_Teams%3F-2",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 0,
+      "correct": true,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Managing_Groups_and_Teams/Motivation-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 0,
+      "correct": true,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Modern_Photography/Composition-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 0,
+      "correct": true,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Modern_Photography/Format-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 2,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Modern_Photography/Lenses-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 2,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Modern_Photography/Lenses-2",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 3,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Mysticism/What_is_mysticism%3F-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 3,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Mysticism/What_is_mysticism%3F-2",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 1,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/New_Zealand_History/Polynesian_Settlement-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 2,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/New_Zealand_History/Polynesian_Settlement-2",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 1,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Origami/Types/Pureland_Origami-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 3,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Origami/Types/Pureland_Origami-2",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 0,
+      "correct": true,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Pakistani_History/Prehistory/Bronze_Age/Indus_Valley_Civilization-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 2,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Pakistani_History/Prehistory/Bronze_Age/Indus_Valley_Civilization-2",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 2,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Peak_Oil:_High_Tide_for_an_Oil_Addicted_World/Personal_Action-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 0,
+      "correct": true,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Peak_Oil:_High_Tide_for_an_Oil_Addicted_World/Personal_Action-2",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 3,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Philippine_History/The_Philippine-American_War-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 3,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Remembering_the_Templars-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 2,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Remembering_the_Templars-2",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 0,
+      "correct": true,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Roman_Culture/Medicine-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 0,
+      "correct": true,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Roman_Culture/Medicine-2",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 2,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Sensory_Systems/Visual_System-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 0,
+      "correct": true,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Sensory_Systems/Visual_System-2",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 1,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Sikhism-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 1,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Sikhism-2",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 0,
+      "correct": true,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Social_and_Cultural_Foundations_of_American_Education/Special_Needs/ADD-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 0,
+      "correct": true,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Social_and_Cultural_Foundations_of_American_Education/Special_Needs/ADD-2",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 3,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Social_and_Cultural_Foundations_of_American_Education/Technology/Role-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 2,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Social_and_Cultural_Foundations_of_American_Education/Technology/Role-2",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 2,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Social_and_Cultural_Foundations_of_American_Education/Technology/Social_Media-2",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 0,
+      "correct": true,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/The_Cold_War/Hungarian_Revolution-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 2,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/The_Cold_War/Hungarian_Revolution-2",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 3,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/The_Cold_War/Introduction-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 1,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/The_Organ_Systems/nervous-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 0,
+      "correct": true,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/The_Seven_Wonders_of_the_World/The_Great_Pyramid-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 2,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/The_Seven_Wonders_of_the_World/The_Great_Pyramid-2",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 1,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/The_Seven_Wonders_of_the_World/The_Temple_of_Artemis-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 2,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/The_Seven_Wonders_of_the_World/The_Temple_of_Artemis-2",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 1,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Transport/History-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 0,
+      "correct": true,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Transport/History-2",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 1,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Warfare-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 1,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Warfare-2",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 0,
+      "correct": true,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Wikijunior:Ancient_Civilizations/Assyrians-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 0,
+      "correct": true,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Wikijunior:Ancient_Civilizations/Assyrians-2",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 2,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Wikijunior:Ancient_Civilizations/Babylonians-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 3,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Wikijunior:Ancient_Civilizations/Babylonians-2",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 1,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Wikijunior:Ancient_Civilizations/Egyptians-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 2,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Wikijunior:Ancient_Civilizations/Egyptians-2",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 0,
+      "correct": true,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Wikijunior:Ancient_Civilizations/Greeks-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 1,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Wikijunior:Ancient_Civilizations/Greeks-2",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 2,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Wikijunior:Ancient_Civilizations/Hebrews-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 0,
+      "correct": true,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Wikijunior:Ancient_Civilizations/Hebrews-2",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 2,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Wikijunior:Ancient_Civilizations/Norse-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 1,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Wikijunior:Ancient_Civilizations/Norse-2",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 0,
+      "correct": true,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Wikijunior:Ancient_Civilizations/Romans-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 2,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Wikijunior:Ancient_Civilizations/Romans-2",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 3,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Wikijunior:Ancient_Civilizations/What_is_a_Civilization%3F-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 1,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Wikijunior:Ancient_Civilizations/What_is_a_Civilization%3F-2",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 2,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Wikijunior:Asia/Bhutan-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 0,
+      "correct": true,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Wikijunior:Asia/Bhutan-2",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 2,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Wikijunior:Asia/Cambodia-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 3,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Wikijunior:Asia/Cambodia-2",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 3,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Wikijunior:Asia/Taiwan-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 3,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Wikijunior:Asia/Taiwan-2",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 3,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Wikijunior:Big_Book_of_Fun_Science_Experiments/Red_cabbage_indicator-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 2,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Wikijunior:Big_Book_of_Fun_Science_Experiments/Red_cabbage_indicator-2",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 3,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Wikijunior:Big_Cats/Lion-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 2,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Wikijunior:Big_Cats/Lion-2",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 3,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Wikijunior:Big_Cats/Meet_The_Cats-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 2,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Wikijunior:Big_Cats/Meet_The_Cats-2",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 0,
+      "correct": true,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Wikijunior:Big_Cats/Ocelot-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 3,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Wikijunior:Big_Cats/Ocelot-2",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 2,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Wikijunior:Big_Cats/Tiger-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 1,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Wikijunior:Big_Cats/Tiger-2",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 1,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Wikijunior:Biology/Cells-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 0,
+      "correct": true,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Wikijunior:Biology/Cells-2",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 1,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Wikijunior:Biology/Kingdoms/Animals-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 1,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Wikijunior:Biology/Kingdoms/Animals-2",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 2,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Wikijunior:Biology/Kingdoms/Plants-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 3,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Wikijunior:Biology/Kingdoms/Plants-2",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 3,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Wikijunior:Biology/Origin_of_Life-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 0,
+      "correct": true,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Wikijunior:Biology/Origin_of_Life-2",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 0,
+      "correct": true,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Wikijunior:Biology/Systems/Circulatory_System-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 3,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Wikijunior:Biology/Systems/Circulatory_System-2",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 0,
+      "correct": true,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Wikijunior:Bugs/Insects_Intro-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 1,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Wikijunior:Bugs/Insects_Intro-2",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 1,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Wikijunior:Dinosaurs/Extinction-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 1,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Wikijunior:Dinosaurs/Extinction-2",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 2,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Wikijunior:Dinosaurs/Triceratops-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 1,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Wikijunior:Dinosaurs/Triceratops-2",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 1,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Wikijunior:Europe/Italy-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 2,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Wikijunior:Europe/Italy-2",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 0,
+      "correct": true,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Wikijunior:Europe/Luxembourg-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 1,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Wikijunior:Europe/Luxembourg-2",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 0,
+      "correct": true,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Wikijunior:Europe/Turkey-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 3,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Wikijunior:Europe/Turkey-2",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 3,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Wikijunior:Europe/Vatican_City-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 0,
+      "correct": true,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Wikijunior:Europe/Vatican_City-2",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 2,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Wikijunior:How_Things_Work/Computer-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 0,
+      "correct": true,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Wikijunior:How_Things_Work/Flush_Toilet-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 0,
+      "correct": true,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Wikijunior:How_Things_Work/Flush_Toilet-2",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 0,
+      "correct": true,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Wikijunior:How_Things_Work/Ice_Skates-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 0,
+      "correct": true,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Wikijunior:How_Things_Work/Ice_Skates-2",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 2,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Wikijunior:How_Things_Work/Laser-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 3,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Wikijunior:How_Things_Work/Laser-2",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 1,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Wikijunior:How_Things_Work/Light_Bulb-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 2,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Wikijunior:How_Things_Work/Light_Bulb-2",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 2,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Wikijunior:How_Things_Work/Nuclear_Bomb-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 1,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Wikijunior:How_Things_Work/Rocket-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 1,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Wikijunior:How_Things_Work/Rocket-2",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 1,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Wikijunior:How_Things_Work/Time-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 1,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Wikijunior:How_Things_Work/Time-2",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 0,
+      "correct": true,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Wikijunior:Kings_and_Queens_of_England/Future_monarchs-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 1,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Wikijunior:Kings_and_Queens_of_England/Future_monarchs-2",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 2,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Wikijunior:Kings_and_Queens_of_England/The_Anglo-Saxons-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 3,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Wikijunior:Languages/Estonian-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 2,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Wikijunior:Languages/Estonian-2",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 1,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Wikijunior:Languages/Hindi-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 0,
+      "correct": true,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Wikijunior:Languages/Hindi-2",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 1,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Wikijunior:Languages/Korean-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 0,
+      "correct": true,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Wikijunior:Languages/Korean-2",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 1,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Wikijunior:Languages/Sanskrit-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 3,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Wikijunior:Languages/Sanskrit-2",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 3,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Wikijunior:Solar_System/Jupiter/Io-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 3,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Wikijunior:Solar_System/Moon-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 2,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Wikijunior:Solar_System/Moon-2",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 2,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Wikijunior:Solar_System/Space_exploration-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 2,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Wikijunior:Solar_System/The_Sun-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 2,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Wikijunior:Solar_System/The_Sun-2",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 2,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Wikijunior:Solar_System/Venus-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 0,
+      "correct": true,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Wikijunior:Solar_System/Venus-2",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 1,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Wikijunior:South_America/The_Amazon-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 0,
+      "correct": true,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Wikijunior:South_America/The_Amazon-2",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 2,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Wikijunior:South_America/Venezuela-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 2,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Wikijunior:South_America/Venezuela-2",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 0,
+      "correct": true,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Wikijunior:The_Elements/Hydrogen-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 2,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Wikijunior:The_Elements/Hydrogen-2",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 3,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Wikijunior:The_Elements/Matter_Is_The_Stuff_Around_You-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 3,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Wikijunior:The_Elements/Matter_Is_The_Stuff_Around_You-2",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 0,
+      "correct": true,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Wikijunior:United_States_Charters_of_Freedom/Constitution-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 0,
+      "correct": true,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Wikijunior:United_States_Charters_of_Freedom/Constitution-2",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 2,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Wikijunior:United_States_Charters_of_Freedom/Declaration_of_Independence-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 2,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Wikijunior:World_Heritage_Sites/Botanic_Gardens-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 0,
+      "correct": true,
+      "scores": [
+        -0.020263671875,
+        -0.498046875,
+        -0.0224609375,
+        -0.236328125
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Wikijunior:World_Heritage_Sites/Botanic_Gardens-2",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 1,
+      "correct": false,
+      "scores": [
+        -0.126953125,
+        -0.390625,
+        -0.1435546875,
+        -0.232421875
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Wikijunior:World_Heritage_Sites/Pyramids_of_Giza-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 1,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Wikijunior:World_Heritage_Sites/Serengeti-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 1,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Wikijunior:World_Heritage_Sites/Serengeti-2",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 1,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Wikijunior:World_War_II/Battle_of_Britain-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 1,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Wikijunior:World_War_II/Battle_of_Britain-2",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 1,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Wikijunior:World_War_II/Battleships-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 1,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Wikijunior:World_War_II/Battleships-2",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 0,
+      "correct": true,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Wikijunior:World_War_II/Liberation_of_Western_Europe-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 1,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Wikijunior:World_War_II/Liberation_of_Western_Europe-2",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 0,
+      "correct": true,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Wikijunior:World_War_II/Submarines-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 3,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Wikijunior:World_War_II/Submarines-2",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 2,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/World_War_II/Battle_of_Poland-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 3,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/World_War_II/Battle_of_Poland-2",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 2,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/World_War_II/Fall_of_East_Africa_and_War_in_North_Africa-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 2,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/World_War_II/Fall_of_East_Africa_and_War_in_North_Africa-2",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 3,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Yoga/Yoga_Tales-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 2,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikibooks.org/wiki/Yoga/Yoga_Tales-2",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 1,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikinews.org/wiki/2009_Shri_Shyam_Bhajan_Hindu_religious_festival_held_in_Hyderabad-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 3,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikinews.org/wiki/2009_Shri_Shyam_Bhajan_Hindu_religious_festival_held_in_Hyderabad-2",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 0,
+      "correct": true,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikinews.org/wiki/2010_FIBA_World_Championship_starts-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 0,
+      "correct": true,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikinews.org/wiki/2010_FIBA_World_Championship_starts-2",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 3,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikinews.org/wiki/24_people_rescued_from_roller_coaster_at_California%27s_Great_America_theme_park-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 0,
+      "correct": true,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikinews.org/wiki/24_people_rescued_from_roller_coaster_at_California%27s_Great_America_theme_park-2",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 1,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikinews.org/wiki/8.0_magnitude_earthquake_occurs_near_Tonga-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 0,
+      "correct": true,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikinews.org/wiki/8.0_magnitude_earthquake_occurs_near_Tonga-2",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 3,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikinews.org/wiki/A1GP_New_Zealand_speeds_its_way_into_record_books-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 0,
+      "correct": true,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikinews.org/wiki/A1GP_New_Zealand_speeds_its_way_into_record_books-2",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 1,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikinews.org/wiki/A_5.6_Richter_quake_hits_Western_Montana-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 1,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikinews.org/wiki/Abu_Ghraib_prison_burns_after_riot-1",
+      "language": "bod_Tibt",
+      "pred": 2,
+      "answer": 3,
+      "correct": false,
+      "scores": [
+        -0.146484375,
+        -0.0059814453125,
+        -0.00396728515625,
+        -0.018310546875
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikinews.org/wiki/Abu_Ghraib_prison_burns_after_riot-2",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 3,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikinews.org/wiki/Aerosmith_sued_over_late_cancellation_of_gig_in_Maui,_Hawaii-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 2,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikinews.org/wiki/Aerosmith_sued_over_late_cancellation_of_gig_in_Maui,_Hawaii-2",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 1,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikinews.org/wiki/Akayev_flees_Kyrgyzstan_as_protesters_seize_control_of_Bishkek-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 2,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikinews.org/wiki/Akayev_flees_Kyrgyzstan_as_protesters_seize_control_of_Bishkek-2",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 0,
+      "correct": true,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikinews.org/wiki/Amazon_to_buy_smart_doorbell_startup_Ring-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 0,
+      "correct": true,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikinews.org/wiki/Amazon_to_buy_smart_doorbell_startup_Ring-2",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 0,
+      "correct": true,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikinews.org/wiki/American_children%27s_show_Reading_Rainbow_ends_26_year_run-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 3,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikinews.org/wiki/American_children%27s_show_Reading_Rainbow_ends_26_year_run-2",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 0,
+      "correct": true,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikinews.org/wiki/Anne_Frank_tree_saved_from_being_chopped_down-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 1,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikinews.org/wiki/Anonymous_people_reveal_animal_cruelty_at_Australian_Inghams_poultry_producer_factory_using_CCTV_footage-1",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 3,
+      "correct": false,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    },
+    {
+      "id": "belebele-bod_Tibt-https://en.wikinews.org/wiki/Anonymous_people_reveal_animal_cruelty_at_Australian_Inghams_poultry_producer_factory_using_CCTV_footage-2",
+      "language": "bod_Tibt",
+      "pred": 0,
+      "answer": 0,
+      "correct": true,
+      "scores": [
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ]
+    }
+  ]
+}

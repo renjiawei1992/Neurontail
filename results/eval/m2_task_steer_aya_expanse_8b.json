@@ -1,0 +1,22 @@
+{
+  "eng_Latn": {
+    "base": 0.48,
+    "steer_lape": 0.465,
+    "steer_rand": [
+      0.44,
+      0.43,
+      0.45
+    ],
+    "task_specific_gain": -0.014999999999999958
+  },
+  "amh_Ethi": {
+    "base": 0.265,
+    "steer_lape": 0.265,
+    "steer_rand": [
+      0.26,
+      0.26,
+      0.265
+    ],
+    "task_specific_gain": 0.0
+  }
+}

@@ -1,0 +1,46 @@
+# Language registry.
+# code: FLORES-200 code (used as the canonical key)
+# tier: high / mid / LRL / ELRL (LRL = low-resource, ELRL = extremely low-resource)
+# data_tier: A / A- / B / C (see refine-logs/DATA_SOURCES.md)
+# main: included in the 12-language main experiment
+languages:
+  # ---------- high ----------
+  - {code: eng_Latn, iso3: eng, name: English, script: Latin, family: IE, tier: high, data_tier: A, main: true}
+  - {code: deu_Latn, iso3: deu, name: German, script: Latin, family: IE, tier: high, data_tier: A, main: true}
+  - {code: fra_Latn, iso3: fra, name: French, script: Latin, family: IE, tier: high, data_tier: A, main: false}
+  - {code: spa_Latn, iso3: spa, name: Spanish, script: Latin, family: IE, tier: high, data_tier: A, main: false}
+  - {code: jpn_Jpan, iso3: jpn, name: Japanese, script: Japanese, family: Japonic, tier: high, data_tier: A, main: true}
+  - {code: zho_Hans, iso3: zho, name: Chinese, script: Han, family: Sino-Tibetan, tier: high, data_tier: A, main: true}
+  - {code: kor_Hang, iso3: kor, name: Korean, script: Hangul, family: Koreanic, tier: high, data_tier: A, main: false}
+  - {code: rus_Cyrl, iso3: rus, name: Russian, script: Cyrillic, family: IE, tier: high, data_tier: A, main: false}
+
+  # ---------- mid ----------
+  - {code: hin_Deva, iso3: hin, name: Hindi, script: Devanagari, family: IE, tier: mid, data_tier: A, main: true}
+  - {code: tur_Latn, iso3: tur, name: Turkish, script: Latin, family: Turkic, tier: mid, data_tier: A, main: true}
+  - {code: vie_Latn, iso3: vie, name: Vietnamese, script: Latin, family: Austroasiatic, tier: mid, data_tier: A, main: false}
+  - {code: ind_Latn, iso3: ind, name: Indonesian, script: Latin, family: Austronesian, tier: mid, data_tier: A, main: false, role: donor}
+  - {code: arb_Arab, iso3: arb, name: Arabic, script: Arabic, family: Afro-Asiatic, tier: high, data_tier: A, main: false, role: donor}
+  - {code: swh_Latn, iso3: swh, name: Swahili, script: Latin, family: Atlantic-Congo, tier: mid, data_tier: A, main: true}
+  - {code: tha_Thai, iso3: tha, name: Thai, script: Thai, family: Kra-Dai, tier: mid, data_tier: A, main: false}
+  - {code: heb_Hebr, iso3: heb, name: Hebrew, script: Hebrew, family: Afro-Asiatic, tier: mid, data_tier: A, main: false}
+  - {code: ukr_Cyrl, iso3: ukr, name: Ukrainian, script: Cyrillic, family: IE, tier: mid, data_tier: A, main: false}
+
+  # ---------- LRL ----------
+  - {code: tsn_Latn, iso3: tsn, name: Tswana, script: Latin, family: Atlantic-Congo, tier: LRL, data_tier: A, main: false}
+  - {code: zul_Latn, iso3: zul, name: Zulu, script: Latin, family: Atlantic-Congo, tier: LRL, data_tier: A, main: true}
+  - {code: amh_Ethi, iso3: amh, name: Amharic, script: Ethiopic, family: Afro-Asiatic, tier: LRL, data_tier: A, main: true}
+  - {code: mlt_Latn, iso3: mlt, name: Maltese, script: Latin, family: Afro-Asiatic, tier: LRL, data_tier: A, main: false}
+  - {code: cym_Latn, iso3: cym, name: Welsh, script: Latin, family: IE, tier: LRL, data_tier: A, main: false}
+  - {code: isl_Latn, iso3: isl, name: Icelandic, script: Latin, family: IE, tier: LRL, data_tier: A, main: false}
+  - {code: kat_Geor, iso3: kat, name: Georgian, script: Georgian, family: Kartvelian, tier: LRL, data_tier: A, main: false}
+
+  # ---------- ELRL ----------
+  - {code: bod_Tibt, iso3: bod, name: Tibetan, script: Tibetan, family: Sino-Tibetan, tier: ELRL, data_tier: A-, main: true}
+  - {code: fij_Latn, iso3: fij, name: Fijian, script: Latin, family: Austronesian, tier: ELRL, data_tier: A-, main: true}
+  - {code: mri_Latn, iso3: mri, name: Māori, script: Latin, family: Austronesian, tier: ELRL, data_tier: A, main: true}
+  - {code: ton_Latn, iso3: ton, name: Tongan, script: Latin, family: Austronesian, tier: ELRL, data_tier: B, main: false, replication: true}
+  - {code: bis_Latn, iso3: bis, name: Bislama, script: Latin, family: Creole, tier: ELRL, data_tier: B, main: false}
+  - {code: div_Thaa, iso3: div, name: Dhivehi, script: Thaana, family: IE, tier: ELRL, data_tier: B, main: false}
+  - {code: niu_Latn, iso3: niu, name: Niuean, script: Latin, family: Austronesian, tier: ELRL, data_tier: C, main: false}
+  - {code: rar_Latn, iso3: rar, name: Cook Islands Māori, script: Latin, family: Austronesian, tier: ELRL, data_tier: C, main: false}
+  - {code: pis_Latn, iso3: pis, name: Pijin, script: Latin, family: Creole, tier: ELRL, data_tier: C, main: false}

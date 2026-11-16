@@ -1,0 +1,10 @@
+{
+  "task": "lss",
+  "backend": "fasttext",
+  "languages": {
+    "bod_Tibt": {
+      "n": 100,
+      "lss": 0.83
+    }
+  }
+}

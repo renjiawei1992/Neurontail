@@ -1,0 +1,10 @@
+# Copy to paths.yaml on the server and adjust for your filesystem.
+data_root: /data/a5_neurotail
+raw_dir: /data/a5_neurotail/raw
+processed_dir: /data/a5_neurotail/processed
+output_dir: /data/a5_neurotail/outputs
+activations_dir: /data/a5_neurotail/outputs/activations
+neurons_dir: /data/a5_neurotail/outputs/neurons
+interventions_dir: /data/a5_neurotail/outputs/interventions
+eval_dir: /data/a5_neurotail/outputs/eval
+lora_dir: /data/a5_neurotail/outputs/lora

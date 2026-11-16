@@ -1,0 +1,10 @@
+{
+  "task": "lss",
+  "backend": "fasttext",
+  "languages": {
+    "eng_Latn": {
+      "n": 20,
+      "lss": 1.0
+    }
+  }
+}

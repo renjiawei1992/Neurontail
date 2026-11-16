@@ -1,0 +1,112 @@
+{
+  "eng_Latn": {
+    "base": 0.58,
+    "steer_lape": 0.545,
+    "steer_rand": [
+      0.54,
+      0.475,
+      0.565
+    ],
+    "task_specific_gain": -0.03499999999999992
+  },
+  "deu_Latn": {
+    "base": 0.52,
+    "steer_lape": 0.505,
+    "steer_rand": [
+      0.54,
+      0.47,
+      0.535
+    ],
+    "task_specific_gain": -0.015000000000000013
+  },
+  "jpn_Jpan": {
+    "base": 0.54,
+    "steer_lape": 0.48,
+    "steer_rand": [
+      0.54,
+      0.545,
+      0.545
+    ],
+    "task_specific_gain": -0.06333333333333335
+  },
+  "zho_Hans": {
+    "base": 0.53,
+    "steer_lape": 0.545,
+    "steer_rand": [
+      0.525,
+      0.515,
+      0.545
+    ],
+    "task_specific_gain": 0.015000000000000013
+  },
+  "hin_Deva": {
+    "base": 0.275,
+    "steer_lape": 0.27,
+    "steer_rand": [
+      0.285,
+      0.275,
+      0.275
+    ],
+    "task_specific_gain": -0.00833333333333336
+  },
+  "tur_Latn": {
+    "base": 0.455,
+    "steer_lape": 0.455,
+    "steer_rand": [
+      0.5,
+      0.46,
+      0.465
+    ],
+    "task_specific_gain": -0.020000000000000018
+  },
+  "swh_Latn": {
+    "base": 0.28,
+    "steer_lape": 0.29,
+    "steer_rand": [
+      0.31,
+      0.3,
+      0.285
+    ],
+    "task_specific_gain": -0.00833333333333336
+  },
+  "zul_Latn": {
+    "base": 0.305,
+    "steer_lape": 0.285,
+    "steer_rand": [
+      0.28,
+      0.28,
+      0.26
+    ],
+    "task_specific_gain": -0.020000000000000018
+  },
+  "amh_Ethi": {
+    "base": 0.23,
+    "steer_lape": 0.235,
+    "steer_rand": [
+      0.235,
+      0.235,
+      0.245
+    ],
+    "task_specific_gain": -0.003333333333333327
+  },
+  "bod_Tibt": {
+    "base": 0.255,
+    "steer_lape": 0.255,
+    "steer_rand": [
+      0.255,
+      0.255,
+      0.255
+    ],
+    "task_specific_gain": 0.0
+  },
+  "mri_Latn": {
+    "base": 0.275,
+    "steer_lape": 0.25,
+    "steer_rand": [
+      0.275,
+      0.275,
+      0.28
+    ],
+    "task_specific_gain": -0.026666666666666672
+  }
+}

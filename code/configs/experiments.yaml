@@ -1,0 +1,75 @@
+project: a5_neurotail
+seed: 0
+
+paths:
+  data_root: ./data
+  raw_dir: ${data_root}/raw
+  processed_dir: ${data_root}/processed
+  output_dir: ./outputs
+  activations_dir: ${output_dir}/activations
+  neurons_dir: ${output_dir}/neurons
+  interventions_dir: ${output_dir}/interventions
+  eval_dir: ${output_dir}/eval
+  lora_dir: ${output_dir}/lora
+
+activation:
+  batch_size: 4
+  max_length: 256
+  min_tokens: 10
+  # null = all layers; otherwise a list, e.g. [8, 12, 16, 20, 24, 28]
+  layers: null
+  # all = every non-padding token; last = last token only
+  token_position: all
+  # histogram bins for DLN; set null to disable
+  hist_bins: 32
+  dtype: float32
+
+identify:
+  methods: [lape, dln, langfir]
+  top_frac: 0.01
+  min_prob: 0.05
+  smoothing: 0.000001
+  # LangFIR random-token control
+  random_tokens: 512
+  random_length: 64
+  random_pos_threshold: 0.5
+  # reference languages used to normalize LAPE; null = all languages in the run
+  reference_languages: null
+
+interventions:
+  k_fracs: [0.005, 0.01, 0.02, 0.05]
+  n_random_sets: 20
+  alphas: [0.5, 1.0, 2.0, 3.0, 5.0]
+  max_examples: 500
+  # layers to intervene on; null = the layers used for neuron identification
+  layers: null
+  # for donor patching: same_script / same_family / same_script_mid / unrelated
+  donor_types: [same_script, same_family, same_script_mid, unrelated]
+
+eval:
+  mcqa_max_length: 512
+  lss_n_prompts: 100
+  lss_max_new_tokens: 48
+  batch_size: 8
+  # language ID backend: fasttext | langdetect | null
+  lid_backend: fasttext
+  lid_model: /home/ubuntu/home/python_project/A5-NeuronTail/data/raw/lid.176.ftz
+
+lora:
+  r: 16
+  alpha: 32
+  dropout: 0.05
+  lr: 0.0001
+  epochs: 1
+  batch_size: 2
+  grad_accum: 8
+  max_length: 512
+  target_modules: [gate_proj, up_proj, down_proj]
+  modes: [neuron_lora, random_lora, full_lora]
+  seeds: [0, 1, 2]
+
+analysis:
+  bootstrap_n: 2000
+  alpha: 0.05
+  correction: bh
+  mixed_effects: true

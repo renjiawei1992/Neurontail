@@ -1,0 +1,62 @@
+# Model registry. `layers` is only a hint; the loader reads config.num_hidden_layers.
+models:
+  llama31_8b:
+    hf_id: meta-llama/Meta-Llama-3.1-8B-Instruct
+    family: llama
+    dtype: bfloat16
+    device_map: auto
+    attn_implementation: eager
+    trust_remote_code: false
+    layers: 32
+    gated: true
+    notes: primary model; MLP gate_proj/up_proj/down_proj
+  qwen25_7b:
+    hf_id: Qwen/Qwen2.5-7B-Instruct
+    family: qwen2
+    dtype: bfloat16
+    device_map: {"": 0}
+    attn_implementation: eager
+    trust_remote_code: false
+    layers: 28
+    gated: false
+    notes: primary model; tokenizer family differs from Llama
+  aya_expanse_8b:
+    hf_id: CohereForAI/aya-expanse-8b
+    family: aya
+    dtype: bfloat16
+    device_map: {"": 0}
+    attn_implementation: eager
+    trust_remote_code: false
+    layers: 32
+    gated: true
+    notes: multilingual-specialized model
+  gemma2_9b:
+    hf_id: google/gemma-2-9b-it
+    family: gemma2
+    dtype: bfloat16
+    device_map: auto
+    attn_implementation: eager
+    trust_remote_code: false
+    layers: 42
+    gated: true
+    notes: SentencePiece tokenizer family
+  mistral_nemo_12b:
+    hf_id: mistralai/Mistral-Nemo-Instruct-2407
+    family: mistral
+    dtype: bfloat16
+    device_map: auto
+    attn_implementation: eager
+    trust_remote_code: false
+    layers: 40
+    gated: false
+    notes: long-context multilingual model
+  olmoe:
+    hf_id: allenai/OLMoE-1B-7B-0924-Instruct
+    family: olmoe
+    dtype: bfloat16
+    device_map: auto
+    attn_implementation: eager
+    trust_remote_code: false
+    layers: 16
+    gated: false
+    notes: MoE; neuron refs include expert index; use for routing-vs-neuron comparison
